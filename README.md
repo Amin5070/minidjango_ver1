@@ -17,4 +17,6 @@ minidjango_ver1  (django project root)
          - models.py
          - tests.py
          - views.py
+    - requirements.txt
+
         
